@@ -1,5 +1,7 @@
 This is a small test game I made using Love2D for fun.
 
+The game has a working ECS (Entity Component System), Tilemap, Animation States, UI/Userdata, Camera. Written entirely in Lua.  
+
 
 
 ---
