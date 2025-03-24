@@ -4,7 +4,7 @@ The game has a working ECS (Entity Component System), Tilemap, Animation States,
 
 Game is playable on Windows by cloning/downloading the repo and dragging 'the game' folder over the 'love' executable.
 
-You can read, edit and test all the .lua game code directly inside the 'the game' if you wish.
+You can read, edit and test all the .lua game code directly inside the 'the game' folder if you wish.
 
 
 ---
