@@ -2,6 +2,8 @@ This is a small test game I made using Love2D for fun.
 
 The game has a working ECS (Entity Component System), Tilemap, Animation States, UI/Userdata, Camera. Written entirely in Lua.  
 
+Game is playable on Windows by cloning/downloading the repo and dragging 'the game' folder over the 'love' executable.
+
 
 
 ---
